@@ -20,8 +20,9 @@ $ ./main --cut N file.extension
 
 ```
 $ ./main --join file.extension
+```
 
-* Example 
+## Example
 
 ```
 $ ./main --cut 6 doc.pdf
