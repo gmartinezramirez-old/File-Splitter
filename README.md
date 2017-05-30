@@ -31,4 +31,3 @@ $ ./main --cut 6 doc.pdf
 ```
 $ ./main --join doc.pdf
 ```
-```
